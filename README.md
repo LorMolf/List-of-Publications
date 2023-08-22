@@ -1,5 +1,5 @@
 # List of my publications
-This repository contains the up-to-date list of my publications. The status of the submissions waiting for the evaluation is kept updated. 
+This repository contains the up-to-date list of my publications. The status of the submissions awaiting evaluation is kept updated. 
 
 
 - "Retrieve-and-marginalize end-to-end summarization of biomedical studies" - Gianluca Moro, Luca Ragazzi, Lorenzo Valgimigli, and Lorenzo Molfetta. In Proceedings of the International Conference on Similarity Search and Applications, Lecture Notes in Computer Science (LNCS). Springer, 2023. CORE Ranking: B. [__ACCEPTED__]
